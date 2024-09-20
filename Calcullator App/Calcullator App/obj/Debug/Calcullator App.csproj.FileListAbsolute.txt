@@ -1,0 +1,14 @@
+E:\23.11.5809\Praktikum 1\Calcullator App\Calcullator App\bin\Debug\Calcullator App.exe.config
+E:\23.11.5809\Praktikum 1\Calcullator App\Calcullator App\bin\Debug\Calcullator App.exe
+E:\23.11.5809\Praktikum 1\Calcullator App\Calcullator App\bin\Debug\Calcullator App.pdb
+E:\23.11.5809\Praktikum 1\Calcullator App\Calcullator App\obj\Debug\Calcullator App.csprojAssemblyReference.cache
+E:\23.11.5809\Praktikum 1\Calcullator App\Calcullator App\obj\Debug\Calcullator App.csproj.CoreCompileInputs.cache
+E:\23.11.5809\Praktikum 1\Calcullator App\Calcullator App\obj\Debug\Calcullator App.exe
+E:\23.11.5809\Praktikum 1\Calcullator App\Calcullator App\obj\Debug\Calcullator App.pdb
+C:\Users\abiyy\Downloads\Calcullator App-20240920T113654Z-001\Calcullator App\Calcullator App\bin\Debug\Calcullator App.exe.config
+C:\Users\abiyy\Downloads\Calcullator App-20240920T113654Z-001\Calcullator App\Calcullator App\bin\Debug\Calcullator App.exe
+C:\Users\abiyy\Downloads\Calcullator App-20240920T113654Z-001\Calcullator App\Calcullator App\bin\Debug\Calcullator App.pdb
+C:\Users\abiyy\Downloads\Calcullator App-20240920T113654Z-001\Calcullator App\Calcullator App\obj\Debug\Calcullator App.csproj.AssemblyReference.cache
+C:\Users\abiyy\Downloads\Calcullator App-20240920T113654Z-001\Calcullator App\Calcullator App\obj\Debug\Calcullator App.csproj.CoreCompileInputs.cache
+C:\Users\abiyy\Downloads\Calcullator App-20240920T113654Z-001\Calcullator App\Calcullator App\obj\Debug\Calcullator App.exe
+C:\Users\abiyy\Downloads\Calcullator App-20240920T113654Z-001\Calcullator App\Calcullator App\obj\Debug\Calcullator App.pdb
